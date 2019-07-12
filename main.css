@@ -1,0 +1,46 @@
+body {
+	background-color: maroon;
+}
+
+.Home{
+	  
+}
+
+.About-Me{
+  
+}
+
+.Projects{
+	 
+}
+
+.Contacts{
+	  
+}
+
+#links{ text-shadow: 2px 2px 5px red;}
+
+h1{  text-shadow: 2px 2px 5px red;}
+
+.link{
+  background-color:white;
+  color: maroon;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+ color:red;
+}
+
+#para{ 
+width: 1000px;
+height: 620px;
+border: solid 100px maroon;
+margin: 200px auto;
+border-radius: 0%;
+background-color:maroon; 
+}
+
